@@ -12,6 +12,4 @@ fn main(){
 
     println!("You Guessed: {}",guess);
 
-    print!(" aloo")
-
 }
